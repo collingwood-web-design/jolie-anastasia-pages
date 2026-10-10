@@ -97,11 +97,10 @@ h1 {
 .btn-ghost:hover { background: #fff; color: #3f0e1a; }
 
 .social-bar {
-  position: absolute;
-  top: 50vh;
-  top: 50svh;
+  position: fixed;
+  top: 50%;
   left: 0;
-  z-index: 5;
+  z-index: 50;
   transform: translateY(-50%);
 }
 
@@ -885,12 +884,19 @@ footer p { color: #fff; }
 
   .socials { gap: 10px; }
 
-  .social-bar {
-    top: 62vh;
-    top: 62svh;
-  }
+  .social-bar { top: 62%; }
 
   .social-bar .socials { gap: 4px; }
+
+  .social-bar .socials a {
+    width: 34px;
+    height: 34px;
+  }
+
+  .social-bar .socials svg {
+    width: 17px;
+    height: 17px;
+  }
 
   .socials a {
     width: 42px;
