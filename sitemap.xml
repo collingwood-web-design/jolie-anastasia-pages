@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://jolieanastasia.ca/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://media.cwd-cdn.com/jolie-anastasia/hero.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://media.cwd-cdn.com/jolie-anastasia/og-image.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://media.cwd-cdn.com/jolie-anastasia/album-cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://media.cwd-cdn.com/jolie-anastasia/record-party.webp</image:loc>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/0VtTgFl3fWw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Lucky To Find – Jolie Anastasia (Music Video)</video:title>
+      <video:description>Official music video for “Lucky To Find,” the lead single from Jolie Anastasia’s debut album Guiding Light.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/0VtTgFl3fWw</video:player_loc>
+      <video:duration>245</video:duration>
+      <video:publication_date>2025-10-08T09:46:17-07:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://jolieanastasia.ca/privacy</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
